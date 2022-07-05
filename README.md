@@ -1,3 +1,3 @@
-# Start By Capgemini - Exercicios Poo
+# Programa Start By Capgemini
 
-Repositório para registrar os exercícios de Java Poo desenvolvidos ao longo do curso de treinamento Capgemini Java Developer - Program Start.
+Aulas de Java Poo.
